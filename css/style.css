@@ -37,6 +37,7 @@ body {
 .inner {
   overflow-x: hidden;
   width: 100rem;
+  color: #ffffff;
   max-width: 100%;
   padding: 3.90625rem 3.125rem;
   margin-bottom: 1.25rem;
