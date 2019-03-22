@@ -3,7 +3,7 @@
 }
 
 body {
-  background-image:linear-gradient(to top, rgba(27,33,51,0.7), rgba(27,33,51,0.4)), url(../img/mac-coffee.jpg);
+  background-image:linear-gradient(to top, rgba(27,33,51,0.1), rgba(27,33,51,4)), url(../img/mac-coffee.jpg);
   background-attachment: fixed;
   background-repeat: no-repeat;
   color: #ffffff;
