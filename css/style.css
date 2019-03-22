@@ -29,6 +29,7 @@ body {
   position: relative;
   max-width: 100%;
   z-index: 1;
+  color:lightblue;
   align-items: center;
   justify-content: center;
   text-align: center;
